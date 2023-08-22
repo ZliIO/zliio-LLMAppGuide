@@ -8,5 +8,8 @@
 
 ## LLM APP 处理流程概览
 
-![Build your own chatbot with context injection ](./assets/images/1*njagJOgiT-VTJjQ18bugcw.webp)
-[图片来源: towardsdatascience.com](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) Build your own chatbot with context injectionr
+![Build your own chatbot with context injection ](./assets/images/Build-your-own-chatbot-with-context-injection.png)
+图片来源: [towardsdatascience.com](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)  : Build your own chatbot with context injectionr
+
+![](./assets/images/2657-Emerging-LLM-App-Stack-R2-1-of-4-2.png)
+图片来源: [a16z.com](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)  : Emerging LLM App Stack
